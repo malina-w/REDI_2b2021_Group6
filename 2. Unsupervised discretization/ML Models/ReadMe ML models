@@ -1,1 +1,11 @@
+For each dataset (iris, pendigits, satimage), we perform:
+(1) Classification Algorithms
+- 3 classfication algorithms: Categorical Naive Bayes, Decision tree ID3, and KNN (with customized distance metric - VDM)
+- 10 discretized datasets
+=> Total models generated for each dataset: 30 models
 
+(2) Model metrics:
+- Accuracy
+- F1 score
+- Classficatin bias
+- Classifcation variance
