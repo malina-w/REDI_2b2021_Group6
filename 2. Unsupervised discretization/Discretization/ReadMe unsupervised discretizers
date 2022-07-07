@@ -1,1 +1,5 @@
-
+For each dataset, we perform 3 discretization:
+- EWD: equal width discretization: 3 parameter settings
+- EFD: equal frequency discretization: 3 parameter settings
+- FFD: fixed frequency discretization: 4 parameter settings
+=> Output: 10 discretized dataset
